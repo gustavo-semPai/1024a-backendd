@@ -1,0 +1,19 @@
+{
+  "name": "1024a-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo-semPai/1024a-backendd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo-semPai/1024a-backendd/issues"
+  },
+  "homepage": "https://github.com/gustavo-semPai/1024a-backendd#readme"
+}
